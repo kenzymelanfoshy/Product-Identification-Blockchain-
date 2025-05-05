@@ -36,4 +36,3 @@ Deploy Smart Contracts: Follow the instructions in the contracts directory.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-![Image](https://github.com/user-attachments/assets/abef2295-8f90-4c8a-9ac3-422e0afe1467)
